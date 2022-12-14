@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6aea5f59.chunk.js",
+    "main.js.map": "/static/js/main.6aea5f59.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.984f88e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.984f88e1.js.map",
+    "static/js/2.3573351c.chunk.js": "/static/js/2.3573351c.chunk.js",
+    "static/js/2.3573351c.chunk.js.map": "/static/js/2.3573351c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.3573351c.chunk.js.LICENSE.txt": "/static/js/2.3573351c.chunk.js.LICENSE.txt",
+    "static/media/basketball-1.73c04353.jpg": "/static/media/basketball-1.73c04353.jpg",
+    "static/media/basketball-2.dd4aa4a7.jpg": "/static/media/basketball-2.dd4aa4a7.jpg",
+    "static/media/clock.365b4472.svg": "/static/media/clock.365b4472.svg",
+    "static/media/email.aad3c916.svg": "/static/media/email.aad3c916.svg",
+    "static/media/home1.143be76e.jpg": "/static/media/home1.143be76e.jpg",
+    "static/media/home2.80a037f1.jpg": "/static/media/home2.80a037f1.jpg",
+    "static/media/logo.543ace06.svg": "/static/media/logo.543ace06.svg",
+    "static/media/message.910fc2d9.svg": "/static/media/message.910fc2d9.svg",
+    "static/media/money.2b491b3b.svg": "/static/media/money.2b491b3b.svg",
+    "static/media/night-town-1.8feecaac.jpg": "/static/media/night-town-1.8feecaac.jpg",
+    "static/media/night-town-2.9c0355a6.jpg": "/static/media/night-town-2.9c0355a6.jpg",
+    "static/media/photo.82097f1c.svg": "/static/media/photo.82097f1c.svg",
+    "static/media/socials.e6a629e3.svg": "/static/media/socials.e6a629e3.svg",
+    "static/media/street-racing-1.9836c9b2.jpg": "/static/media/street-racing-1.9836c9b2.jpg",
+    "static/media/street-racing-2.2c24b84c.jpg": "/static/media/street-racing-2.2c24b84c.jpg",
+    "static/media/teamwork.6cea200f.svg": "/static/media/teamwork.6cea200f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.984f88e1.js",
+    "static/js/2.3573351c.chunk.js",
+    "static/js/main.6aea5f59.chunk.js"
+  ]
+}
